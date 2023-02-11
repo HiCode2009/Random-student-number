@@ -1,2 +1,6 @@
 # Random-student-number
-This program is no longer only available to Jinling Huiwen Grade 2022 Class 23
+### Changelog
+#### February 10 2023
+Released.
+#### February 11 2023
+This program is no longer just for Jinling Huiwen Grade 2022 Class 23.
